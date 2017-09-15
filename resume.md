@@ -4,7 +4,7 @@ title: My resume
 permalink: /resume/
 ---
 
-Name: Gritsana
+Name: Gritsana Paohom
 
 # Education
 
